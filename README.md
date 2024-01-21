@@ -1,3 +1,3 @@
 # SimpliLearn
 Projects for SimpliLearn
-Finf completed Projects here
+Find completed Projects here
